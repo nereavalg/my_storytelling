@@ -27,14 +27,14 @@ Tipo/Género:
 
 
 ## Resumen
-
+Una tarde de mayo, Paloma está aburrida en clase y se distrae mirando por la ventana. Ve un pájaro y se imagina como sería su vida si fuera él y pudiera viajar por todo el mundo. 
 
 ### Personaje
 
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Paloma
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
@@ -44,6 +44,7 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 
 
 ### TagLine
+¿Dónde viajarías si fueras un pájaro?
 
 
 ### Conflicto 
