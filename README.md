@@ -27,7 +27,7 @@ Tipo/Género:
 
 
 ## Resumen
-Una tarde de mayo, Paloma está aburrida en clase y se distrae mirando por la ventana. Ve un pájaro y se imagina como sería su vida si fuera él y pudiera viajar por todo el mundo. 
+
 
 ### Personaje
 
