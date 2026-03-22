@@ -52,7 +52,9 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 
 ### Productos
 
-- Personaje: (img personaje) 
+- Personaje:
+## <h4> Paloma:</h4>
+![](img-nobody.png) 
 
 Puedes entrar al interactivo del personaje aquí: [Interactivo Paloma](https://app.lumi.education/run/uTL3iP)
 
