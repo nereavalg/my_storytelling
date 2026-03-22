@@ -15,7 +15,6 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Nerea Valderas Guirado
 
 
-Proyecto (código): 
 URL (link) del proyecto en Github: 
 
 
@@ -33,10 +32,10 @@ Paloma es una estudiante que sueña con viajar por el mundo libremente como har�
 ### Personajes
 
 
+![](https://github.com/nereavalg/Paloma/blob/f721031f9f995ffe9df56ebe543918ee1f7e0b5e/Ficha%20Paloma.png)
+
+
 ![](https://github.com/nereavalg/Paloma/blob/f8261f01ca951076b947be611d4faef3049dd2da/Ficha%20Abejaruco.png)
-
-
-
 
 
 ### Historia
