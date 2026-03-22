@@ -30,16 +30,14 @@ Tipo/Género:
 Paloma es una estudiante que sueña con viajar por el mundo libremente como haría un pájaro. 
 
 
-### Personaje
+### Personajes
 
 
-![](img-nobody.png)
-
-Nombre: Paloma
+![](https://github.com/nereavalg/Paloma/blob/f8261f01ca951076b947be611d4faef3049dd2da/Ficha%20Abejaruco.png)
 
 
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
+
+
 
 ### Historia
 Paloma es una estudiante universitaria que, a pesar de ser aplicada, a menudo encuentra sus clases aburridas e insignificantes. No soporta estar sentada en una silla durante horas escuchando un sermón; ella sueña con viajar por el mundo sin parar. Todas las mañanas se sienta en la mesa al lado de la ventana y se distrae viendo la vida pasar. 
