@@ -15,7 +15,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Nerea Valderas Guirado
 
 
-URL (link) del proyecto en Github: 
+ [URL (link) del proyecto en Github:](https://github.com/nereavalg/Paloma)
 
 
 Tipo/Género:  
