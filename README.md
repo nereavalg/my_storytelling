@@ -59,6 +59,8 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 ## <h4> Abejaruco:</h4>
 ![]() 
 
+- Interactivo
+
 Puedes entrar al interactivo del personaje aquí: [Interactivo Paloma](https://app.lumi.education/run/uTL3iP)
 
 
