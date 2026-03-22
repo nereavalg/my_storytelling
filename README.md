@@ -51,7 +51,7 @@ Paloma desea la libertad y la aventura pero la realidad es que vive atrapada en 
 
 ### Productos
 
-- Personaje:
+- Personajes:
 ## <h4> Paloma:</h4>
 ![](https://github.com/nereavalg/Paloma/blob/d25439c8bb4dbe2e3fea8c5ed74806892f138666/Paloma%201.png) 
 
